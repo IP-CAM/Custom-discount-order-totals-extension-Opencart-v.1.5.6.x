@@ -19,3 +19,23 @@ If you changed the name of the "admin" folder, then place admin files accordingl
 catalog/controller/checkout/cart.php<br />
 catalog/language/english/checkout/cart.php<br />
 catalog/view/theme/default/template/checkout/cart.tpl
+
+#Output
+
+It will be added at the bottom of already existing discount features of OpenCart.<br />
+![alt text](screenshots/opencart-custom-discount-01.png "Included in checkout screen")
+<br />
+<br />
+When used, you can see that it will automatically reflected in the order total.
+<br />
+![alt text](screenshots/opencart-custom-discount-02.png "Included in order total")
+<br />
+<br />
+Automatically added in order confirmation order total as well.
+<br />
+![alt text](screenshots/opencart-custom-discount-03.png "Included in confirmation order total")
+<br />
+<br />
+And lastly, included in the admin's order summary as well.
+<br />
+![alt text](screenshots/opencart-custom-discount-04.png "Included in admin order summary")
