@@ -1,9 +1,9 @@
 # opencart-custom-discount
-Implementing your own (custom) discount in OpenCart e-Commerce Solution.
+Implementing your own (custom) discount extension in OpenCart e-Commerce Solution.
 
 # Files to ADD:
 <b>Note:</b>You can use any name for your custom discount extension. In this example, I used <b>my_custom_discount</b>.
-<br />
+<br /><br />
 admin/view/template/total/<b>my_custom_discount.tpl</b><br />
 admin/controller/total/<b>my_custom_discount.php</b><br />
 admin/language/english/total/<b>my_custom_discount.php</b><br />
@@ -13,9 +13,12 @@ catalog/language/english/total/<b>my_custom_discount.php</b>
 
 # Files to EDIT:
 <b>Note:</b> For the sake of this example, files I have edited are core files.
-You must edit files properly by the use of <i>vQmod</i> and by making your own theme for the template file.
+As a good practice, you should edit files properly by the use of <i>vQmod</i> and by making your own theme for the template file.
+This is advisable when you are updating your OpenCart version constantly.
 <br />
-If you changed the name of the "admin" folder, then place admin files accordingly.
+1. If you changed the name of the "admin" folder, then place admin files accordingly.<br />
+2. If you created your own theme, then just copy the changes made from <b>catalog/view/theme/default/template/checkout/cart.tpl</b>.<br />
+3. If you're using vQmod, implement the changes made in <b>catalog/controller/checkout/cart.php</b>.
 <br /><br />
 catalog/controller/checkout/cart.php<br />
 catalog/language/english/checkout/cart.php<br />
