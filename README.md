@@ -1,9 +1,10 @@
 # opencart-custom-discount-order-totals-extension
 Implementing your own (custom) discount extension in OpenCart e-Commerce Solution.<br />
-Creating your extension under <b>Order Totals</b>.
+This will create your extension under <b>Order Totals</b>.<br />
+<i>This the only place where you can find this FREE.</i>
 
 # Files to ADD:
-<b>Note:</b>You can use any name for your custom discount extension. In this example, I used <b>my_custom_discount</b>.
+<b>Note:</b> You can use any name for your custom discount extension. In this example, I used <b>my_custom_discount</b>.
 <br /><br />
 admin/view/template/total/<b>my_custom_discount.tpl</b><br />
 admin/controller/total/<b>my_custom_discount.php</b><br />
