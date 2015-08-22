@@ -22,7 +22,8 @@ catalog/view/theme/default/template/checkout/cart.tpl
 
 #Output
 
-It will be added at the bottom of already existing discount features / extensions of OpenCart.<br />
+It will be added at the bottom of already existing discount features / extensions of OpenCart.
+Or, it depends on your HTML mark-up if where you place it.<br />
 ![alt text](screenshots/opencart-custom-discount-01.png "Included in checkout screen")
 <br />
 <br />
