@@ -20,9 +20,10 @@ This is advisable when you are updating your OpenCart version constantly.
 2. If you created your own theme, then just copy the changes made from <b>catalog/view/theme/default/template/checkout/cart.tpl</b>.<br />
 3. If you're using vQmod, implement the changes made in <b>catalog/controller/checkout/cart.php</b>.
 <br /><br />
+<p style="background: #EFEFEF; padding: 5px">
 catalog/controller/checkout/cart.php<br />
 catalog/language/english/checkout/cart.php<br />
-catalog/view/theme/default/template/checkout/cart.tpl
+catalog/view/theme/default/template/checkout/cart.tpl</p>
 
 #Output
 
