@@ -47,12 +47,12 @@ And lastly, it will be included automatically in the admin's "order summary" as 
 Before the custom discount extension can be used in the front-end, the admin files' purpose are to enable the custom discount for use.
 So as soon as you completed all the changes and additional files, log-in to the admin panel and navigate to <b>Extensions->Order Totals</b>.
 <br /><br />
-From there you can find what is shown in this screenshot below:
+From there, you can find the extension from the list as shown in this screenshot below:
 <br />
-You can install/uninstall the extension from here.
+You can install / uninstall the extension from here.
 <br />
 ![alt text](screenshots/admin-opencart-custom-discount-01.png "Installation")
 <br /><br />
-After installing, set to "<b>Enabled</b>" then put the sorting order that should be lesser than the sorting order of the "<b>Total</b>" extension.
+After installing, edit your custom discount and set to "<b>Enabled</b>", then put the sorting order that should be lesser than the sorting order of the "<b>Total</b>" extension.
 <br />
 ![alt text](screenshots/admin-opencart-custom-discount-02.png "Configuration")
