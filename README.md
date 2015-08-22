@@ -2,7 +2,8 @@
 Implementing your own (custom) discount in OpenCart e-Commerce Solution.
 
 # Files to ADD:
-
+<b>Note:</b>You can use any name for your custom discount extension. In this example, I used <b>my_custom_discount</b>.
+<br />
 admin/view/template/total/<b>my_custom_discount.tpl</b><br />
 admin/controller/total/<b>my_custom_discount.php</b><br />
 admin/language/english/total/<b>my_custom_discount.php</b><br />
@@ -27,17 +28,17 @@ Or, it depends on your HTML mark-up if where you place it.<br />
 ![alt text](screenshots/opencart-custom-discount-01.png "Included in checkout screen")
 <br />
 <br />
-When used, you can see that it will automatically reflected in the order total.
+When used, you can see that it will be automatically reflected in the "order total".
 <br />
 ![alt text](screenshots/opencart-custom-discount-02.png "Included in order total")
 <br />
 <br />
-Automatically added in order confirmation total as well.
+Will be reflected automatically in the "order confirmation total" as well.
 <br />
 ![alt text](screenshots/opencart-custom-discount-03.png "Included in order confirmation total")
 <br />
 <br />
-And lastly, it will be included automatically in the admin's order summary as well.
+And lastly, it will be included automatically in the admin's "order summary" as well.
 <br />
 ![alt text](screenshots/opencart-custom-discount-04.png "Included in admin order summary")
 
