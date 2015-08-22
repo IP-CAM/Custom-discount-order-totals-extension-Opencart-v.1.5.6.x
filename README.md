@@ -1,5 +1,6 @@
-# opencart-custom-discount
-Implementing your own (custom) discount extension in OpenCart e-Commerce Solution.
+# opencart-custom-discount-order-totals-extension
+Implementing your own (custom) discount extension in OpenCart e-Commerce Solution.<br />
+<i>Custom Order Totals Extension.</i>
 
 # Files to ADD:
 <b>Note:</b>You can use any name for your custom discount extension. In this example, I used <b>my_custom_discount</b>.
