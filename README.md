@@ -31,9 +31,9 @@ When used, you can see that it will automatically reflected in the order total.
 ![alt text](screenshots/opencart-custom-discount-02.png "Included in order total")
 <br />
 <br />
-Automatically added in order confirmation order total as well.
+Automatically added in order confirmation total as well.
 <br />
-![alt text](screenshots/opencart-custom-discount-03.png "Included in confirmation order total")
+![alt text](screenshots/opencart-custom-discount-03.png "Included in order confirmation total")
 <br />
 <br />
 And lastly, included in the admin's order summary as well.
