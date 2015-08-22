@@ -36,6 +36,21 @@ Automatically added in order confirmation total as well.
 ![alt text](screenshots/opencart-custom-discount-03.png "Included in order confirmation total")
 <br />
 <br />
-And lastly, included in the admin's order summary as well.
+And lastly, it will be included automatically in the admin's order summary as well.
 <br />
 ![alt text](screenshots/opencart-custom-discount-04.png "Included in admin order summary")
+
+# Admin Installation
+
+Before above can be performed, the admin files purpose are to enable the custom discount for use.
+So as soon as you completed all the files, log-in to the admin panel and navigate to <b>Extensions->Order Totals</b>.
+<br /><br />
+From there you can find what is shown in this screenshot below:
+<br />
+You can install/uninstall the extension from here.
+<br />
+![alt text](screenshots/admin-opencart-custom-discount-01.png "Installation")
+<br /><br />
+After installing, set to "<b>Enabled</b>" then put the sorting order that should be lesser than the sorting order of the "<b>Total</b>" extension.
+<br />
+![alt text](screenshots/admin-opencart-custom-discount-02.png "Configuration")
