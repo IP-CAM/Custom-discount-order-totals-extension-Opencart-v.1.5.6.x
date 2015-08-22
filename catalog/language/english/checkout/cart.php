@@ -70,4 +70,4 @@ $_['text_trial']             = '%s every %s %s for %s payments then ';
 $_['text_recurring']         = '%s every %s %s';
 $_['text_length']            = ' for %s payments';
 
-$_['text_my_custom_discount'] = 'My custom discount successfully applied.';
+$_['text_my_custom_discount'] = 'My custom discount successfully applied.'; // Custom discount success message.
